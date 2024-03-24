@@ -1,0 +1,17 @@
+#bottom-right {
+content-align-horizontal: right;
+content-align-vertical: bottom;
+
+}
+
+Name {
+    width: auto;
+    height: auto;
+    border: heavy $secondary;
+}
+
+ReturnValues {
+    width: auto;
+    height: auto;
+    border: heavy $secondary;
+}
